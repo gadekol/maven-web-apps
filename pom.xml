@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Rondus Technologies Releases Nexus Repository</name>
-	      <url>http://18.236.96.119:8081/repository/rondustech-releases/</url>
+	      <url>http://13.58.47.177:8081/repository/Boeing-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Rondus Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.236.96.119:8081/repository/rondustech-snapshot/</url>
+	      <url>http://13.58.47.177:8081/repository/Boeing-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
